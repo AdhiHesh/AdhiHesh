@@ -55,10 +55,6 @@
 
 ### 📊 GitHub Stats
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhihesh&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=adhihesh&show_icons=true&theme=default" alt="adhihesh GitHub Stats" />
 </p>
